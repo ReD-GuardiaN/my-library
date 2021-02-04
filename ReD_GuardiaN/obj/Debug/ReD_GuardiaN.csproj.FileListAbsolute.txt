@@ -1,0 +1,6 @@
+C:\Users\Dumi\source\repos\my-library\ReD_GuardiaN\bin\Debug\ReD_GuardiaN.dll
+C:\Users\Dumi\source\repos\my-library\ReD_GuardiaN\bin\Debug\ReD_GuardiaN.pdb
+C:\Users\Dumi\source\repos\my-library\ReD_GuardiaN\obj\Debug\ReD_GuardiaN.csproj.CoreCompileInputs.cache
+C:\Users\Dumi\source\repos\my-library\ReD_GuardiaN\obj\Debug\ReD_GuardiaN.dll
+C:\Users\Dumi\source\repos\my-library\ReD_GuardiaN\obj\Debug\ReD_GuardiaN.pdb
+C:\Users\Dumi\source\repos\my-library\ReD_GuardiaN\obj\Debug\ReD_GuardiaN.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Dumi\source\repos\my-library\Test-environment\bin\Debug\netcoreapp3.1\Test-environment.exe
+C:\Users\Dumi\source\repos\my-library\Test-environment\bin\Debug\netcoreapp3.1\Test-environment.deps.json
+C:\Users\Dumi\source\repos\my-library\Test-environment\bin\Debug\netcoreapp3.1\Test-environment.runtimeconfig.json
+C:\Users\Dumi\source\repos\my-library\Test-environment\bin\Debug\netcoreapp3.1\Test-environment.runtimeconfig.dev.json
+C:\Users\Dumi\source\repos\my-library\Test-environment\bin\Debug\netcoreapp3.1\Test-environment.dll
+C:\Users\Dumi\source\repos\my-library\Test-environment\bin\Debug\netcoreapp3.1\Test-environment.pdb
+C:\Users\Dumi\source\repos\my-library\Test-environment\bin\Debug\netcoreapp3.1\ReD_GuardiaN.dll
+C:\Users\Dumi\source\repos\my-library\Test-environment\bin\Debug\netcoreapp3.1\ReD_GuardiaN.pdb
+C:\Users\Dumi\source\repos\my-library\Test-environment\obj\Debug\netcoreapp3.1\Test-environment.csprojAssemblyReference.cache
+C:\Users\Dumi\source\repos\my-library\Test-environment\obj\Debug\netcoreapp3.1\Test-environment.AssemblyInfoInputs.cache
+C:\Users\Dumi\source\repos\my-library\Test-environment\obj\Debug\netcoreapp3.1\Test-environment.AssemblyInfo.cs
+C:\Users\Dumi\source\repos\my-library\Test-environment\obj\Debug\netcoreapp3.1\Test-environment.csproj.CoreCompileInputs.cache
+C:\Users\Dumi\source\repos\my-library\Test-environment\obj\Debug\netcoreapp3.1\Test-environment.csproj.CopyComplete
+C:\Users\Dumi\source\repos\my-library\Test-environment\obj\Debug\netcoreapp3.1\Test-environment.dll
+C:\Users\Dumi\source\repos\my-library\Test-environment\obj\Debug\netcoreapp3.1\Test-environment.pdb
+C:\Users\Dumi\source\repos\my-library\Test-environment\obj\Debug\netcoreapp3.1\Test-environment.genruntimeconfig.cache

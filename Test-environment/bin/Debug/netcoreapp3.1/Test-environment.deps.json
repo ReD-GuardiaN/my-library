@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Test-environment/1.0.0": {
+        "dependencies": {
+          "ReD_GuardiaN": "1.0.0"
+        },
+        "runtime": {
+          "Test-environment.dll": {}
+        }
+      },
+      "ReD_GuardiaN/1.0.0": {
+        "runtime": {
+          "ReD_GuardiaN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test-environment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReD_GuardiaN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
